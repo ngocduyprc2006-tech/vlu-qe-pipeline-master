@@ -2,7 +2,7 @@
 
 // Danh sách tài khoản mẫu để phục vụ kiểm thử
 const USERS = [
-  { username: 'admin', password: '123', isLocked: false },
+  { username: 'admin', password: '1234', isLocked: false },
   { username: 'locked_user', password: 'password123', isLocked: true },
   { username: 'special_user', password: 'p@ss$word#123!', isLocked: false },
 ];
